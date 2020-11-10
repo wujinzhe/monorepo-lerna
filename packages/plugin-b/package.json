@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/plugin-b",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "吴晋哲 <jinzhewu@sfmail.sf-express.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@monorepo/plugin-a": "^1.0.0",
+    "@monorepo/plugin-a": "^1.0.1",
     "react": "^17.0.1",
     "webpack": "^5.4.0",
     "webpack-cli": "^4.2.0"
