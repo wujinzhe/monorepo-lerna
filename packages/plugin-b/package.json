@@ -26,5 +26,6 @@
     "babel-loader": "8.0.0",
     "eslint": "7.0.0",
     "vue-loader": "14.0.0"
-  }
+  },
+  "gitHead": "8d7660b432a64a2a641975e97f778bf0b0f06442"
 }
