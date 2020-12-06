@@ -9,5 +9,5 @@ module.exports = pluginB;
 function pluginB() {
     // TODO
     PluginA()
-    console.log('我是插件B')
+    console.log('我是插件B 11')
 }
