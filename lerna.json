@@ -7,6 +7,9 @@
   "command": {
     "bootstrap": {
       "hoist": true
+    },
+    "publish": {
+      "git-tag-version": false
     }
   },
   "registry": "http://localhost:4873",

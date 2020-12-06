@@ -1,5 +1,5 @@
 {
-  "name": "@sf/change-observer",
+  "name": "@ky/change-observer",
   "version": "2.0.1",
   "description": "",
   "main": "dist/main.js",
