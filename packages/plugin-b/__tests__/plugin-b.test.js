@@ -3,5 +3,5 @@
 const pluginB = require('..');
 
 describe('plugin-b', () => {
-    it('needs tests');
+    it('needs tests 11');
 });
