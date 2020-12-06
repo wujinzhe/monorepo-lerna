@@ -5,6 +5,7 @@
   "author": "吴晋哲 <jinzhewu@sfmail.sf-express.com>",
   "homepage": "",
   "license": "ISC",
+  "nobuild": true,
   "main": "lib/plugin-b.js",
   "directories": {
     "lib": "lib",
