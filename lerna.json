@@ -9,5 +9,6 @@
       "hoist": true
     }
   },
+  "registry": "http://localhost:4873",
   "version": "independent"
 }
