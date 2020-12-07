@@ -1,6 +1,6 @@
 {
   "name": "@ky/change-observer",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "",
   "main": "dist/main.js",
   "scripts": {
@@ -18,5 +18,6 @@
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^5.1.3",
     "webpack-cli": "^4.1.0"
-  }
+  },
+  "gitHead": "abafebc0e3fb65891b72e00fa4d68e3ffb026cb2"
 }

@@ -1,6 +1,6 @@
 {
   "name": "plugin-a",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "吴晋哲 <jinzhewu@sfmail.sf-express.com>",
   "homepage": "https://github.com/wujinzhe/monorepo-lerna#readme",
@@ -26,5 +26,6 @@
   },
   "bugs": {
     "url": "https://github.com/wujinzhe/monorepo-lerna/issues"
-  }
+  },
+  "gitHead": "abafebc0e3fb65891b72e00fa4d68e3ffb026cb2"
 }
