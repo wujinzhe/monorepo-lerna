@@ -1,6 +1,6 @@
 /** 深拷贝 */
 function deepCopy(data) {
-  console.log('1');
+  console.log('1111');
   // 如果data为原始类型，则直接返回
   if (!(data instanceof Object)) return data;
 
