@@ -1,0 +1,29 @@
+{
+  "name": "plugin-a",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "吴晋哲 <jinzhewu@sfmail.sf-express.com>",
+  "homepage": "https://github.com/wujinzhe/monorepo-lerna#readme",
+  "license": "ISC",
+  "main": "lib/plugin-a.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujinzhe/monorepo-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wujinzhe/monorepo-lerna/issues"
+  }
+}
