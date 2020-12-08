@@ -4,5 +4,5 @@ module.exports = pluginB;
 
 function pluginB() {
     // TODO
-    console.log('sdfdfsdfsd')
+    console.log('sdffff')
 }
