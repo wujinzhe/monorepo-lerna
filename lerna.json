@@ -9,7 +9,7 @@
       "hoist": true
     },
     "publish": {
-      "git-tag-version": false
+      "message": "chore(release): publish"
     }
   },
   "registry": "http://localhost:4873",
