@@ -4,5 +4,5 @@ module.exports = pluginB;
 
 function pluginB() {
     // TODO sffsd
-    console.log('sfdssdfssfsdfdsfffsddfdfddsffsd是非法的是fs')
+    console.log('sfdssdfssfsdfdsfffsddfdfddsffsd是sffsd非法的是fs')
 }
