@@ -9,7 +9,7 @@
       "hoist": true
     },
     "publish": {
-      "message": "chore(release): publish"
+      "message": "chore(release): publish %s"
     }
   },
   "registry": "http://localhost:4873",
