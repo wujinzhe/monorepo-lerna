@@ -27,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/wujinzhe/monorepo-lerna/issues"
   },
-  "homepage": "https://github.com/wujinzhe/monorepo-lerna#readme"
+  "homepage": "https://github.com/wujinzhe/monorepo-lerna#readme",
+  "gitHead": "aa738821b5ac7a37be705d406f29e2127379eadc"
 }
