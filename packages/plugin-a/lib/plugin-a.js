@@ -4,5 +4,5 @@ module.exports = pluginA;
 
 function pluginA() {
     // TODO
-    console.log(116765423)
+    console.log('9999')
 }
